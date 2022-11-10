@@ -1,11 +1,11 @@
-# default-project-template
+# make-a-difference
 
-![default-project-template](banner.png)
+![make-a-difference](banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/default-project-template](https://projects.raspberrypi.org/en/projects/default-project-template)
+Find the project online at [projects.raspberrypi.org/en/projects/make-a-difference](https://projects.raspberrypi.org/en/projects/make-a-difference)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/default-project-template/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/default-project-template/tree/master/en/solutions).
+For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/make-a-difference/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/make-a-difference/tree/master/en/solutions).
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
