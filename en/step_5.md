@@ -172,7 +172,7 @@ Run your project. When you have finished, click the **Full Screen Control** icon
 
 --- no-print ---
 
-![full screen.gif](images/full-screen.gif)
+![Animation showing the "Full Screen Control" icon in the top right above the stage being clicked, the stage then takes up the full screen.](images/full-screen.gif)
 
 --- /no-print ---
 
